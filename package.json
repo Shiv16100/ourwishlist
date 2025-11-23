@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Shiv16100.github.io/wish",
+  "homepage": "https://Shiv16100.github.io/ourwishlist",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
