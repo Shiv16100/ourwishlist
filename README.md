@@ -1,4 +1,4 @@
-# 🌟 The Wishlist of Radhika and Shivesh
+# 🌟 The Wishlist of Deepika and Shivesh
 
 A beautiful, modern web application to track dreams, goals, and bucket list items. Built with React and Vite for a fast, responsive experience with cross-device synchronization.
 
