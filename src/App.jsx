@@ -134,8 +134,8 @@ function App() {
   // Get added by badge
   const getAddedByBadge = (addedBy) => {
     const badges = {
-      'shivesh': { emoji: '🐻', text: 'Shivesh', color: 'linear-gradient(135deg, #E3F2FD, #BBDEFB)' },
-      'deepika': { emoji: '🦄', text: 'Deepika', color: 'linear-gradient(135deg, #F3E5F5, #E1BEE7)' },
+      'shivesh': { emoji: '🐻', text: 'Shivesh dudu', color: 'linear-gradient(135deg, #E3F2FD, #BBDEFB)' },
+      'deepika': { emoji: '🦄', text: 'Deepika bubu', color: 'linear-gradient(135deg, #F3E5F5, #E1BEE7)' },
       'both': { emoji: '💕', text: 'Both', color: 'linear-gradient(135deg, #FCE4EC, #F8BBD0)' }
     }
     
@@ -261,7 +261,7 @@ function App() {
             <Star className="title-icon" />
             Shivesh & Deepika's Love Wishlist
           </h1>
-          <p className="subtitle">Dream big, achieve bigger together ✨💕</p>
+          <p className="subtitle">We'll always achieve whatever we wish for💕</p>
 
           <div className="sync-status">
             {loading ? (
