@@ -261,7 +261,7 @@ function App() {
             <Star className="title-icon" />
             Deepika & Shivesh's Love Wishlist
           </h1>
-          <p className="subtitle">Just me, my baby, and our little pocket of dreams 🌟🧿💞💕</p>
+          <p className="subtitle">Just me, my baby, and our big pocket of dreams 🌟🧿💞</p>
 
           <div className="sync-status">
             {loading ? (
