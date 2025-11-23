@@ -259,9 +259,9 @@ function App() {
         <header className="header">
           <h1 className="title">
             <Star className="title-icon" />
-            Shivesh & Deepika's Love Wishlist
+            Deepika & Shivesh's Love Wishlist
           </h1>
-          <p className="subtitle">We'll always achieve whatever we wish for💕</p>
+          <p className="subtitle">Just me, my baby, and our little pocket of dreams 🌟🧿💞💕</p>
 
           <div className="sync-status">
             {loading ? (
@@ -583,8 +583,8 @@ function App() {
                     onChange={(e) => handleChange('addedBy', e.target.value)}
                     required
                   >
-                    <option value="shivesh">🐻 Shivesh</option>
-                    <option value="deepika">🦄 Deepika</option>
+                    <option value="shivesh">🐻 Shivesh(Dudu)</option>
+                    <option value="deepika">🦄 Deepika(Bubu)</option>
                     <option value="both">💕 Both</option>
                   </select>
                 </div>
